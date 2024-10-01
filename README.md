@@ -1,7 +1,3 @@
-# DM_01 - Data Modelling project
+# SQL
 
-In this project I've build data model from schema to psyical data model and created database setup scripts.
-  
-![Data Schema](DM_01-Schema.png)
--->
-![Data Schema](DM_01-Physical_data_model.png)
+In this repository you find all different types of portfolio projects build in SQL demonstrating my knowledge in different areas.
