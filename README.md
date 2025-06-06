@@ -17,3 +17,6 @@ This project is built on top of the following Oracle-style schema:
 | `delivery`    | Delivery status tracking for each order |
 
 ---
+![Data Schema](data_modelling/DM_01-Schema.png)
+
+![Data Schema](data_modelling/DM_01-Relational_data_model.png)
