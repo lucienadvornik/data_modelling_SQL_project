@@ -1,7 +1,12 @@
-# Cosmetics Store Analytics & SQL Optimization
+# Relational Database Design & SQL Setup for E-commerce Store
 
-This project uses a relational SQL database simulating an online cosmetics store. It showcases advanced SQL querying skills and database optimization techniques using real-world scenarios like customer analysis, sales performance, and payment behavior.
+This project showcases the design and implementation of a relational database schema for an online cosmetics store. It includes:
 
+- Conceptual and relational data modeling 
+- Physical schema design tailored for Oracle SQL
+- SQL DDL scripts to create and initialize the database
+- Sample test data inserts
+- Basic testing queries for validation
 
 ## Database Schema
 
@@ -16,7 +21,10 @@ This project is built on top of the following Oracle-style schema:
 | `payments`    | Payment method and status for each order |
 | `delivery`    | Delivery status tracking for each order |
 
+
 ---
-![Data Schema](data_modelling/DM_01-Schema.png)
+
+
+![Data Schema](schema_design/Schema.png)
 
 ![Data Schema](data_modelling/DM_01-Relational_data_model.png)
